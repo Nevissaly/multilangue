@@ -1,0 +1,76 @@
+{
+    "title":{
+        
+    "menu":{
+        "home":"Accueille",
+        "article":"Articles",
+        "placeholder":"Rechercher",
+        "title1":"Changement climatique : causes, effets et enjeux",
+        "title2":"A la COP28, premières promesses et négociations diplomatiques face à la crise climatique",
+        "title3":"Le réchauffement de la planète s’accélère à un rythme sans précédent et il est bien dû à l'activité humaine (GIEC)",
+        "title4":"Changements climatiques",
+        "title5":"Dérèglement climatique ",
+        "title6":"Le climat : 'maintenant ou jamais' pour limiter le réchauffement à 1,5 degré, selon le GIEC.",
+        "articles":{
+            "texte1": "Les gaz à effet de serre (GES) ont un rôle essentiel dans la régulation du climat. Sans eux, la température moyenne sur Terre serait de -18 °C au lieu de +14 °C et la vie n’existerait peut-être pas. Toutefois, depuis le XIXe siècle, l’homme a considérablement accru la quantité de gaz à effet de serre présents dans l’atmosphère. En conséquence, l’équilibre climatique naturel est modifié et le climat se réajuste par un réchauffement de la surface terrestre. Nous pouvons déjà constater les effets du changement climatique. C’est pourquoi il convient de se mobiliser et d’agir. Tout le monde est concerné : élus, acteurs économiques, citoyens, pour réduire nos émissions de gaz à effet de serre, mais aussi pour s’adapter aux changements déjà engagés.",
+            "texte2": "La Terre reçoit en permanence de l’énergie du soleil. La partie de cette énergie qui n’est pas réfléchie par l’atmosphère, notamment les nuages, ou la surface terrestre est absorbée par la surface terrestre qui se réchauffe en l’absorbant. En contre-partie, les surfaces et l’atmosphère émettent du rayonnement infra-rouge, d’autant plus intense que les surfaces sont chaudes. Une partie de ce rayonnement est absorbée par certains gaz et par les nuages, c’est le phénomène de l’effet de serre. L’autre partie est émise vers l’univers et la température de la Terre s’ajuste pour trouver un équilibre entre l’énergie du soleil absorbée en permanence et celle réémise sous forme de rayonnement infra-rouge. Une augmentation des gaz à effet de serre suite aux activités de l’homme piège une partie de ce rayonnement, ce qui provoque une hausse de la température des surfaces jusqu’à trouver un nouvel équilibre. C’est la cause principale du réchauffement climatique observé ces dernières décennies.",
+            "texte3": "Certains gaz à effet de serre sont naturellement présents dans l’air (vapeur d’eau, dioxyde de carbone). Si l’eau (vapeur et nuages) est l’élément qui contribue le plus à l’effet de serre « naturel », l’augmentation de l’effet de serre depuis la révolution industrielle du XIXe siècle est induite par les émissions d’autres gaz à effet de serre provoquées par notre activité.",
+            "texte4": "1. L’accumulation du dioxyde de carbone (CO2) dans l’atmosphère contribue pour 2/3 de l’augmentation de l’effet de serre induite par les activités humaines (combustion de gaz, de pétrole, déforestation, cimenteries, etc.). C’est pourquoi on mesure usuellement l’effet des autres gaz à effet de serre en équivalent CO2 (eq. CO2). Les émissions de CO2 actuelles auront un impact sur les concentrations dans l’atmosphère et sur la température du globe pendant des dizaines d’années, car sa durée de vie dans l’atmosphère est supérieure à la centaine d’années.",
+            "texte5": "2. Le méthane (CH4) : les élevages des ruminants, les rizières inondées, les décharges d’ordures et les exploitations pétrolières et gazières constituent les principales sources de méthane induites par les activités humaines. La durée de vie du méthane dans l’atmosphère est de l’ordre de 12 ans.",
+            "texte6": "3. Le protoxyde d’azote (N2O) provient des engrais azotés et de certains procédés chimiques. Sa durée de vie est de l’ordre de 120 ans.",
+            "texte7": "4. L’hexafluorure de soufre (SF6) a une durée de vie de 50 000 ans dans l’atmosphère.",
+            "texte8": "Pour limiter les effets du changement climatique, les pays signataires de la Convention-cadre des Nations unies sur le changement climatique (CCNUCC) se sont donnés pour objectif dans l’Accord de Paris de « contenir l’élévation de la température moyenne de la planète nettement en dessous de 2 °C par rapport aux niveaux préindustriels et en poursuivant l’action menée pour limiter l’élévation de la température à 1,5 °C par rapport aux niveaux préindustriels, étant entendu que cela réduirait sensiblement les risques et les effets des changements climatiques ».\n\nPour ce faire, il est crucial de s’attaquer aux causes du changement climatique en maîtrisant les émissions nettes de gaz à effet de serre (GES), c’est ce qu’on appelle l’atténuation.\n\nCependant, compte tenu de l’inertie climatique et de la grande durée de vie des gaz à effet de serre accumulés dans l’atmosphère, l’augmentation des températures d’ici à la fin du siècle est inévitable et toutes les régions du monde sont concernées. L’adaptation au changement climatique est donc nécessaire pour en limiter les conséquences sur les activités socio-économiques et sur la nature. L’adaptation a pour objectifs d’anticiper les impacts du changement climatique, de limiter leurs dégâts éventuels en intervenant sur les facteurs qui contrôlent leur ampleur (par exemple, l’urbanisation des zones à risques) et de profiter des opportunités potentielles.",
+            "paragraphe1":"Changement climatique : causes, effets et enjeux",
+            "paragraphe2":"Pourquoi la Terre chauffe ?",
+            "paragraphe3":"L’effet de serre",
+            "paragraphe4":"Les principaux gaz à effet de serre",
+            "paragraphe5":"Atténuation et adaptation : deux approches complémentaires",
+        
+
+        "articles2":{
+            "texte1": "Plus de cent quarante chefs d’Etats doivent se succéder, vendredi 1er et samedi 2 décembre à Dubaï, à la tribune de la COP28, sommés d’annoncer comment ils entendent rehausser leurs engagements pour résoudre une crise climatique toujours plus menaçante, sans pouvoir éviter l’ombre du conflit Israël-Hamas.",
+            "texte2": "Quelque cent quarante dirigeants, dont le roi Charles III, le président français, Emmanuel Macron, ses homologues turc, Recep Tayyip Erdogan, ou brésilien, Luiz Inacio Lula da Silva, ou encore la vice-présidente américaine, Kamala Harris, sont attendus durant ces deux jours. Joe Biden et Xi Jinping, à la tête des plus gros émetteurs de gaz à effet de serre, les Etats-Unis et la Chine, seront les grands absents. Le pape, grippé, a annulé sa visite, qui aurait été inédite.",
+            "texte3": "Dans ce contexte, la COP28 doit accoucher d’un premier bilan officiel de l’accord de Paris et d’un premier correctif, urgent pour espérer maintenir l’objectif de limiter le réchauffement à 1,5 degré. Pour y parvenir, le déclin des émissions doit atteindre − 43 % d’ici à 2030 par rapport à 2019, selon les experts climat du GIEC. Or le pic des émissions de gaz à effet de serre, certes proche, n’est pas encore atteint, au terme d’une année 2023 sans plus aucun doute la plus chaude jamais enregistrée.",
+            "para1":"A la COP28, premières promesses et négociations diplomatiques face à la crise climatique",
+            "para2":"L’ombre de la guerre à Gaza",
+            "para3":"Objectif de déclin des émissions",
+            "h":"Alors que l’année 2023 devrait être la plus chaude jamais enregistrée, les dirigeants du monde doivent dresser un premier bilan officiel de l’accord de Paris en 2015 et un premier correctif, pour espérer maintenir l’objectif de limitation du réchauffement à 1,5 degré.",
+
+            
+
+            
+        "articles3":{
+            "texte1":"Le rapport, élaboré par 234 scientifiques de 66 pays, souligne que l'influence humaine a réchauffé le climat à un rythme sans précédent depuis au moins 2.000 ans. En 2019, les concentrations de CO2 atmosphérique étaient plus élevées que jamais depuis au moins 2 millions d'années, alors que les concentrations de méthane et d'oxyde nitreux étaient plus élevées que jamais au cours des 800.000 dernières années. Aussi, la température à la surface du globe a augmenté plus rapidement depuis 1970 que pendant toute autre période de 50 ans au cours des 2.000 dernières années au moins. Par exemple, les températures de la décennie la plus récente (2011-2020) dépassent celles de la période chaude pluriséculaire la plus récente, il y a environ 6.500 ans, indique le rapport. Parallèlement, le niveau moyen mondial de la mer a augmenté plus rapidement depuis 1900 qu'au cours de tout autre siècle précédent, depuis au moins 3.000 ans. Le document montre que les émissions de gaz à effet de serre dues aux activités humaines sont responsables d'un réchauffement d'environ 1,1°C entre 1850 et 1900. Il constate qu'en moyenne sur les 20 prochaines années, la température mondiale devrait atteindre ou dépasser 1,5°C de réchauffement.",
+            "texte2":"Selon les experts du GIEC, il est encore temps de limiter le changement climatique. Des réductions fortes et durables des émissions de dioxyde de carbone (CO2) et d'autres gaz à effet de serre pourraient rapidement améliorer la qualité de l'air, et, d'ici 20 à 30 ans, les températures mondiales pourraient se stabiliser. Les scientifiques du GIEC préviennent que le réchauffement planétaire de 2°C sera dépassé au cours du 21e siècle. Par ailleurs, la réalisation des objectifs de l'accord de Paris de 2015 sera « hors de portée » à moins que des réductions rapides et profondes des émissions de CO2 et d'autres gaz à effet de serre n'interviennent dans les prochaines décennies. L'évaluation se fonde sur l'amélioration des données relatives au réchauffement historique, ainsi que sur les progrès de la compréhension scientifique de la réponse du système climatique aux émissions d'origine humaine. « Il est clair depuis des décennies que le climat de la Terre change, et le rôle de l'influence humaine sur le système climatique est incontesté », a déclaré la coprésidente du groupe de travail I du GIEC, Valérie Masson-Delmotte. Elle a toutefois signalé que le nouveau rapport « reflète également des avancées majeures dans la science de l'attribution, c'est-à-dire la compréhension du rôle du changement climatique dans l'intensification d'événements météorologiques et climatiques spécifiques ». Le document montre que les émissions de gaz à effet de serre dues aux activités humaines sont responsables d'un réchauffement d'environ 1,1°C entre 1850 et 1900. Il constate qu'en moyenne sur les 20 prochaines années, la température mondiale devrait atteindre ou dépasser 1,5°C de réchauffement.",
+            "texte3":"Les experts du GIEC prévoient qu'au cours des prochaines décennies, les changements climatiques s'accentueront dans toutes les régions. Un réchauffement planétaire de 1,5°C, entrainerait des vagues de chaleur, des saisons chaudes plus longues et des saisons froides plus courtes de plus en plus fréquentes. À 2 °C de réchauffement planétaire, les extrêmes de chaleur risquent davantage d'atteindre des seuils de tolérance critiques pour l'agriculture et la santé. Mais il n'y aura pas que la température. Par exemple, le changement climatique intensifie la production naturelle d'eau - le cycle de l'eau. Il en résulte des précipitations plus intenses et des inondations associées, ainsi qu'une sécheresse plus intense dans de nombreuses régions. Concernant le régime des précipitations, dans les hautes latitudes, les précipitations devraient augmenter, tandis qu'elles devraient diminuer dans de grandes parties des régions subtropicales. Des modifications du régime des pluies de mousson sont attendues, qui varieront selon les régions, prévient le rapport. En outre, les zones côtières connaîtront une élévation continue du niveau de la mer tout au long du XXIe siècle, ce qui contribuera à des inondations côtières plus fréquentes et plus graves dans les zones de faible altitude et à une érosion côtière. Des événements extrêmes liés au niveau de la mer, qui se produisaient auparavant une fois tous les 100 ans, pourraient se produire chaque année d'ici la fin du siècle. Le rapport indique également que la poursuite du réchauffement amplifiera le dégel du pergélisol, ainsi que la diminution de la couverture neigeuse saisonnière, la fonte des glaciers et des calottes glaciaires et la disparition de la banquise arctique estivale. Les modifications de l'océan, notamment le réchauffement, la fréquence accrue des vagues de chaleur marine, l'acidification des océans et la réduction des niveaux d'oxygène, affectent à la fois les écosystèmes océaniques et les personnes qui en dépendent, et elles se poursuivront au moins pendant le reste du siècle. Les experts préviennent que certains aspects du changement climatique peuvent être amplifiés dans les villes, notamment la chaleur, les inondations dues à de fortes précipitations et l'élévation du niveau de la mer dans les villes côtières. En outre, les scientifiques du GIEC préviennent que des résultats peu probables, tels que l'effondrement de la calotte glaciaire ou des changements brusques de la circulation océanique, ne peuvent être exclus.",
+            "p1":"Le réchauffement de la planète s’accélère à un rythme sans précédent et il est bien dû à l'activité humaine (GIEC)",
+            "p2":"Le temps presse mais il est encore temps d'agir",
+            "p3":"Un siècle de changements, pour toutes régions",
+        "home1":{
+            "hm1":"Changements Climatiques",
+            "hm2":"Sensibilisations",
+            "hm3":"Le changement climatique est un défi mondial. Nous devons prendre des mesures collectives pour réduire notre empreinte carbone, protéger la biodiversité et promouvoir des modes de vie durables. Rejoignez-nous dans notre mission pour un avenir plus vert.",
+            "hm4":"Idées",
+            "hm5":"Partagez vos idées sur la manière dont nous pouvons contribuer à atténuer le changement climatique. Que ce soit par des choix alimentaires durables, la promotion des énergies renouvelables ou la plantation d'arbres, chaque action compte.",
+            "hm6":"Partager votre idée",
+            "hm7":"Partagez votre idée ou solution ici pour le bien de notre planète",
+            "hm8":"Partagez votre idée ici",
+            "hm9":"Veuillez entrer une solution.",
+            "hm10":"Annuler",
+            "hm11":"Soumettre",
+            "hm12":"Merci pour votre message. Vous avez contribué au développement de notre planète."
+        }
+        }
+       
+        
+    }
+
+        
+
+    }
+}
+}
+}
+
+    
+

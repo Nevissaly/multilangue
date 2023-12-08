@@ -1,0 +1,68 @@
+/* Articles.css */
+
+
+  
+  .background-image {
+    background-image: url('./h.jpg');
+    background-size:cover; /* Ajustez cette propriété en fonction de votre préférence */
+    background-repeat: no-repeat;
+    background-position:left;
+    width: 100%;
+    height: 100%;
+    
+  }
+
+/* Style du contenu */
+
+  
+  /* Style du titre */
+  .title {
+    font-weight: bold;
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: brown;
+  }
+  
+  /* Style du texte principal */
+  .main-text {
+    font-size: 18px;
+    color: black;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  /* Styles pour les articles */
+  .article-container {
+    max-width: 1200px; /* Ajustez la largeur maximale selon vos besoins */
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0 20px; /* Ajoute un espacement autour des articles */
+  }
+  
+  .article {
+    width: 300px;
+    margin: 30px 0; /* Ajuste l'espacement entre les articles verticalement */
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(230, 229, 229, 0.1);
+    width: calc(33.33% - 20px);
+  }
+  
+  .article img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .article h2 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .article p {
+    font-size: 16px;
+    color: #333;
+  }
+  

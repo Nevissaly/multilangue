@@ -1,0 +1,121 @@
+/* src/App.css */
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  background-image: url('./h.jpg');
+  background-size: cover; /* Ajustez cette propriété en fonction de votre préférence */
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100vh; /* Ajustez la hauteur pour occuper toute la fenêtre */
+}
+
+.App-header {
+  background-color: rgb(121, 97, 121);
+  padding: 20px;
+  color: white;
+}
+
+h1 {
+  margin: 0;
+}
+
+.image-section, .sensibilisation-section, .idees-section {
+  padding: 20px;
+}
+
+.image-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.sensibilisation-section, .idees-section {
+  background-color: #f0f0f0;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.footer {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #282c34;
+  color: white;
+  border-top: 1px solid #61dafb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.solution-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.solution-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%; /* Ajustez la largeur selon vos besoins */
+}
+
+.solution-form textarea {
+  width: 100%;
+  margin-bottom: 10px; /* Espace entre le champ de saisie et le bouton */
+}
+
+.solution-form button {
+  width: 10%;
+  background-color: rgb(102, 185, 102);
+}
+.solutions-container {
+  display: flex;
+  justify-content: space-between; /* Espacement égal entre les sections */
+}
+
+.sensibilisation-section,
+.idees-section {
+  width: 48%; /* Pourcentage de largeur pour chaque section */
+}
+.green-text {
+  color: rgb(101, 189, 101);
+}
+.sensibilisation-section,
+.idees-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Pour centrer également horizontalement */
+  text-align: center; /* Pour centrer le texte horizontalement */
+  min-height: 60vh; /* Ajustez la hauteur minimale selon vos besoins */
+}
+
+

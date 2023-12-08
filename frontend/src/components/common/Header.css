@@ -1,0 +1,55 @@
+@import "~admin-lte/plugins/fontawesome-free/css/all.css";
+@import "~admin-lte/dist/css/adminlte.css";
+
+
+.ellipsis{
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow:hidden;
+}
+
+.modal.fade{
+    background: rgba(0,0,0,0.7);
+}
+
+.modal-backdrop.fade{
+    opacity: 0;
+}
+
+a.btn.btn-db{
+    background-color: #0069d9 !important;
+    border-color: #0062cc !important;
+}
+/* Style de base pour le dropdown */
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Icône de traduction */
+  .dropdown-icon {
+    cursor: pointer;
+  }
+  
+  /* Dropdown (initiallement caché) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Liens à l'intérieur du dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Changement de style au survol des liens du dropdown */
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
